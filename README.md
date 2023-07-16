@@ -48,3 +48,5 @@
 
 &emsp;&emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-b-g-219a13225)
+
+[![profile-views](https://komarev.com/ghpvc/?username=deepikabg10&style=for-the-badge)](https://github.com/deepikabg10)
