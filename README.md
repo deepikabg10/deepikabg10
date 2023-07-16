@@ -7,6 +7,8 @@
 - I’m constantly learning and improving my skills to stay updated with the latest trends in the industry.
 - My hobbies include Playing Chess, Writing Quotes, Reading Story Books.
 
+<p style="float:right">[![profile-views](https://komarev.com/ghpvc/?username=deepikabg10&style=for-the-badge)](https://github.com/deepikabg10)</p>
+
 ## <img style = "margin-bottom:-6px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/direct-hit_1f3af.gif" width ="30">&nbsp;Skills
 
 ### Programming Languages
@@ -48,5 +50,3 @@
 
 &emsp;&emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-b-g-219a13225)
-
-<span style="float:right">[![profile-views](https://komarev.com/ghpvc/?username=deepikabg10&style=for-the-badge)](https://github.com/deepikabg10)</span>
