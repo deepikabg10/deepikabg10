@@ -2,10 +2,10 @@
 
 ## About me
 
-- I'm currently persuing Btech in Computer Science and Systems.
+- I graduated from REVA University with a B.Tech, majoring in Computer Science.
 - My interests include Software Development, Data Science and Machine Learning.
 - I’m constantly learning and improving my skills to stay updated with the latest trends in the industry.
-- My hobbies include Playing Chess, Writing Quotes, Reading Story Books.
+- My hobbies include Playing Chess, Writing Quotes.
 
 <div align="center">
 
