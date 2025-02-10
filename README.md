@@ -55,6 +55,6 @@
 ## <img style = "margin-bottom:-9px" src="https://em-content.zobj.net/source/microsoft-teams/363/magnifying-glass-tilted-right_1f50e.png" width ="30">&nbsp;Where to find me
 
 &emsp;&emsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-b-g-219a13225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-b-g)
 
 <span style="float:right"></span>
